@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 # A student learning programming...
-Learning ==C#==,Python,etc.
+Learning **C#**,Python,etc.
